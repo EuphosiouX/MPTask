@@ -1,4 +1,4 @@
-# MPTask-Michael Christoher 2440047362
+# MPTask-Michael Christopher 2440047362
 
 For this exercise, you will be using activity.csv to generate and display the needed information. It is suggested that you look into the following modules (they might come in handy i.e. plotting bar charts, time series, histogram, formatting dates and computing ranges, mean, median, etc): 1. Numpy 2. Pandas 3. matplotlib.pyplot 4. datetime 5. statistics Your task is to create a python script that would be able to display the information being asked for: A. What is mean total number of steps taken per day? For this part of the task, we ignore the missing values (NA) in the dataset. 1. Calculate the total number of steps taken per day 2. Make a histogram of the total number of steps taken each day 3. Calculate and report the mean and median of the total number of steps taken per day 
  
